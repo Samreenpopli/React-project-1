@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import New from './New';
+import App from './App';
 
 
 
@@ -10,6 +10,6 @@ import New from './New';
 
 
 
-ReactDOM.render(<New /> , document.getElementById('root'));
+ReactDOM.render(<App /> , document.getElementById('root'));
 
 
